@@ -1,7 +1,7 @@
 package com.Hackerank.java.advance;
 
 public class Add {
-	 void add(int...numbers)
+	static void add(int...numbers)
 	    {
 	        int sum = 0;
 	        for(int num:numbers)
